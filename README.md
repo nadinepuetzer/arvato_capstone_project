@@ -19,8 +19,8 @@ The code was written in Jupyter Notebook with a Python 3 installation. All requi
 
 ## Data Files
 - 'Arvato project Workbook New.ipynb' : Jupyter Notebook including python code
-- 'requirements.txt' : Text File with all import statements necessary
-- 'DIAS Attributes - Values 2017.xlsx' and 'DIAS Information Levels - Attributes 2017.xlsx' : Two Excel Files including columns and value descriptions
+- 'requirements.txt' : Text file with all required libraries
+- 'DIAS Attributes - Values 2017.xlsx' and 'DIAS Information Levels - Attributes 2017.xlsx' : Two excel files including columns and value descriptions
 
 ## Acknowledgements
 Thanks to Udacity for such an amazing project to learn professional data science skills. Further thanks to Arvato / Bertelsman to provide the use case and the required data.
