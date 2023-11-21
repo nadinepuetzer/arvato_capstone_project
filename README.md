@@ -15,7 +15,7 @@ The full project report can be found in this blog post.
 ## How to Install and Run the Project
 This is one of Udacity's capstone project for the Data Science Nanodegree program. The population and customer datasets used are only provided as part of the project and are not allowed to be shared due to data privacy. In addition, two further data sets are shared, which serve to explain the individual columns and define the individual data types and values including values describing unknowns.
 
-The code was written in Jupyter Notebook with a Python 3 installation. The import statements for the necessary Python libraries are included in the requirements.txt.
+The code was written in Jupyter Notebook with a Python 3 installation. All required Python libraries are included in the requirements.txt.
 
 ## Data Files
 - 'Arvato project Workbook New.ipynb' : Jupyter Notebook including python code
