@@ -18,7 +18,7 @@ This is one of Udacity's capstone project for the Data Science Nanodegree progra
 The code was written in Jupyter Notebook with a Python 3 installation. All required Python libraries are included in the requirements.txt.
 
 ## Data Files
-- 'Arvato project Workbook New.ipynb' : Jupyter Notebook including python code
+- 'Arvato project Workbook.ipynb' : Jupyter Notebook including python code
 - 'requirements.txt' : Text file with all required libraries
 - 'DIAS Attributes - Values 2017.xlsx' and 'DIAS Information Levels - Attributes 2017.xlsx' : Two excel files including columns and value descriptions
 
