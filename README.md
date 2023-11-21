@@ -1,6 +1,6 @@
 # Customer Segmentation Report for Arvato Financial Solutions
 
-# Description
+## Description
 In this project, supervised and unsupervised machine learning algorithms are used to analyze demographic datasets of a general population as well as customers of a German mail order company. 
 
 The aim of the project:
@@ -12,19 +12,19 @@ The data is provided by Arvato Financial Services, a subsidiary of Bertelsmann.
 
 The full project report can be found in this blog post.
 
-# How to Install and Run the Project
+## How to Install and Run the Project
 This is one of Udacity's capstone project for the Data Science Nanodegree program. The population and customer datasets used are only provided as part of the project and are not allowed to be shared due to data privacy. In addition, two further data sets are shared, which serve to explain the individual columns and define the individual data types and values including values describing unknowns.
 
-The code was written in Jupyter Notebook with a Python 3 installation. The necessary Python libraries are included in the requirements.txt.
+The code was written in Jupyter Notebook with a Python 3 installation. The import statements for the necessary Python libraries are included in the requirements.txt.
 
-# Data Files
+## Data Files
 
 
-# Acknowledgements
+## Acknowledgements
 Thanks to Udacity for such an amazing project to learn professional data science skills. Further thanks to Arvato / Bertelsman to provide the use case and the required data.
 
 
-# License
+## License
 Copyright (c) 2023 Nadine Puetzer
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
