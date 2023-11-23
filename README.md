@@ -23,14 +23,14 @@ The code was written in Jupyter Notebook with a Python 3 installation. All requi
 - 'DIAS Attributes - Values 2017.xlsx' and 'DIAS Information Levels - Attributes 2017.xlsx' : Two excel files including columns and value descriptions
 
 ## Acknowledgements
-Thanks to Udacity for such an amazing project to learn professional data science skills. Further thanks to Arvato / Bertelsman to provide the use case and the required data.
+Thanks to Udacity for such an amazing project to learn professional data science skills. Further thanks to Arvato / Bertelsman to provide the use case and the required data. Thanks to all the 
 
 ## References
 - [scikit-learn](https://scikit-learn.org/stable/) Website for all kinds of questions to definitions, application of code etc.
 - Several github repos to get inspiration:
-  [](https://github.com/Tobi81/nano_ds_capstone/blob/master/Arvato%20Project.ipynb)
-  [](https://github.com/djirmgard/arvato-udacity-project/blob/master/Arvato%20Project%20Workbook.ipynb)
-  [](https://github.com/tian570/Bertelsmann-Arvato-ML/blob/master/project_notebook/Arvato%20Project%20Workbook.ipynb)
+  [Tobi81/nano_ds_capstone](https://github.com/Tobi81/nano_ds_capstone/blob/master/Arvato%20Project.ipynb)
+  [djirmgard/arvato-udacity-project](https://github.com/djirmgard/arvato-udacity-project/blob/master/Arvato%20Project%20Workbook.ipynb)
+  [tian570/Bertelsmann-Arvato-ML](https://github.com/tian570/Bertelsmann-Arvato-ML/blob/master/project_notebook/Arvato%20Project%20Workbook.ipynb)
 
 ## License
 Copyright (c) 2023 Nadine Puetzer
