@@ -28,9 +28,9 @@ Thanks to Udacity for such an amazing project to learn professional data science
 ## References
 - [scikit-learn](https://scikit-learn.org/stable/) Website for all kinds of questions to definitions, application of code etc.
 - Several github repos to get inspiration:
--- [Tobi81/nano_ds_capstone](https://github.com/Tobi81/nano_ds_capstone/blob/master/Arvato%20Project.ipynb)
--- [djirmgard/arvato-udacity-project](https://github.com/djirmgard/arvato-udacity-project/blob/master/Arvato%20Project%20Workbook.ipynb)
--- [tian570/Bertelsmann-Arvato-ML](https://github.com/tian570/Bertelsmann-Arvato-ML/blob/master/project_notebook/Arvato%20Project%20Workbook.ipynb)
+      - [Tobi81/nano_ds_capstone](https://github.com/Tobi81/nano_ds_capstone/blob/master/Arvato%20Project.ipynb)
+      - [djirmgard/arvato-udacity-project](https://github.com/djirmgard/arvato-udacity-project/blob/master/Arvato%20Project%20Workbook.ipynb)
+      - [tian570/Bertelsmann-Arvato-ML](https://github.com/tian570/Bertelsmann-Arvato-ML/blob/master/project_notebook/Arvato%20Project%20Workbook.ipynb)
 
 ## License
 Copyright (c) 2023 Nadine Puetzer
