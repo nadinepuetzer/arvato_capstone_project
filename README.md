@@ -23,7 +23,7 @@ The code was written in Jupyter Notebook with a Python 3 installation. All requi
 - 'DIAS Attributes - Values 2017.xlsx' and 'DIAS Information Levels - Attributes 2017.xlsx' : Two excel files including columns and value descriptions
 
 ## Acknowledgements
-Thanks to Udacity for such an amazing project to learn professional data science skills. Further thanks to Arvato / Bertelsman to provide the use case and the required data. Thanks to all the 
+Thanks to Udacity for such an amazing project to learn professional data science skills. Further thanks to Arvato / Bertelsman to provide the use case and the required data.
 
 ## License
 Copyright (c) 2023 Nadine Puetzer
